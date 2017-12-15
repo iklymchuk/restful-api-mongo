@@ -1,6 +1,6 @@
 ## Restful api mongo
 
-**Project upload***
+**Project upload**
 
 ``
 git clone git@github.com:iklymchuk/restful-api-mongo.git
@@ -16,7 +16,7 @@ npm install
 
 **Mongo configuration**
 
-*Creating new user*
+*Creating new user - mongo shell*
 
 ``
 db.createUser(
